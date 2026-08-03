@@ -36,6 +36,10 @@ graph LR
     style J fill:#d1fae5,stroke:#059669,stroke-width:2px,color:#064e3b
 ```
 
+The same pipeline, showing the precise hook points where each middleware runs:
+
+![Middleware hook diagram](./623e6f55-9d6a-47f7-941a-33921dc30bb8.png)
+
 ---
 
 ## Agent = Model + Harness
